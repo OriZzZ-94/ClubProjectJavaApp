@@ -9,7 +9,7 @@ The UI experience is Implemented using GUI components, thus the systems algorith
 
 
 
-![image](https://user-images.githubusercontent.com/70447976/155593356-9aae0dbd-c101-4a66-9bc9-c1dfdcedabf3.png)
+![image](https://user-images.githubusercontent.com/70447976/155719249-9d7cc180-ef2c-4171-a58f-c102c838b3df.png)
 ![image](https://user-images.githubusercontent.com/70447976/155593374-6af06cc1-d461-4a49-9f70-3c04714c6ddd.png)
 ![image](https://user-images.githubusercontent.com/70447976/155593425-4d1a592d-7c9c-495a-ab81-8dfb1a2834c1.png)
 ![image](https://user-images.githubusercontent.com/70447976/155594151-aa33e981-c075-44a4-9e73-e153ae9b7601.png)
